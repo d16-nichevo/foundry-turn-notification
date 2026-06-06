@@ -4,7 +4,7 @@ if(game.user.isGM) {
   // Don't show the notification for the GM.
   // Comment out the below line if you want
   // the GM to see this turn notification.
-  // return;
+  return;
 }
 
 // Do not allow execution outside of combat.
