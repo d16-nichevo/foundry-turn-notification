@@ -25,7 +25,7 @@ It's your turn Alice!
 I made this module because:
 
 * The module [Combat Ready!](https://github.com/Teshynil/combatready?tab=readme-ov-file#combat-ready-module-for-fvtt) wasn't being updated.
-* I didn't want to install [Monks Combat Detais](https://github.com/ironmonk108/monks-combat-details) for just small feature.
+* I didn't want to install [Monks Combat Detais](https://github.com/ironmonk108/monks-combat-details) for just one small feature.
 * I couldn't find any other module that could display on-screen "up next" and "your turn" messages.
 
 The module is incredibly basic, but it does what I need.
