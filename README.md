@@ -45,3 +45,7 @@ Make sure you also enable the module in your game! See "Activating Modules" [her
 # Setup
 
 No setup needed. It should just work.
+
+# Contact the Author
+
+[Click here.](https://deck16.net/contact)
