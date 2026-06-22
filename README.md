@@ -7,18 +7,15 @@ This is a module for [Foundry VTT](https://foundryvtt.com/).
 * Messages can be clicked to dismiss.
 * The GM does not see the messages.
 
-The messages show this text (but with formatting and actual names):
+Examples below with player "Jim" and character "Merisiel".
 
 ## When You're Up Next
 
-Get ready Alice...    
-Now Acting: Lancelot    
-**Up Next: Grognar**    
+![screenshot 1](/screenshot_1.png) 
 
 ## When It's Your Turn
 
-It's your turn Alice!    
-**Now Acting: Grognar**    
+![screenshot 2](/screenshot_2.png)
 
 # Raison D'être
 
