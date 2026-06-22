@@ -43,6 +43,18 @@ Make sure you also enable the module in your game! See "Activating Modules" [her
 
 No setup needed. It should just work.
 
+# Sounds for Turn Notifications
+
+This is now inbuilt into Foundry:
+
+1. Go to the Settings tab.
+1. Click "Game Settings".
+1. Click "Core" on the left, then "Combat Tracker" on the right.
+1. Select a Combat Theme.
+1. Click "Save Tracker Settings".
+
+Be aware each player needs to do this.
+
 # Contact the Author
 
 [Click here.](https://deck16.net/contact)
